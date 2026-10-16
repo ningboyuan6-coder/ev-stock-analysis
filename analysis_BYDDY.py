@@ -19,3 +19,19 @@ print("\nBYDDY Closing Price Statistics:")
 print(price_stats)
 print("\nBYDDY Daily Returns Statistics:")
 print(return_stats)
+
+#work item 4 for BYDDY
+monthly_avg = close.resample("ME").mean().round(2) #月平均收盘价
+monthly_returns = daily_returns.resample("ME").sum().round(2) #月平均收益率(哪个月整体涨跌）
+monthly_range = (close.resample("ME").max() - close.resample("ME").min()).round(2) #月最大最小差值
+monthly_volume = data["Volume"].resample("ME").sum().round(2) #月成交量
+print('\nMonthly Average Closing Price:')
+print(monthly_avg)
+print('\nMonthly Returns:')
+print(monthly_returns)
+print('\nMonthly Price Range:')
+print(monthly_range)
+print('\nMonthly Trading Volume:')
+print(monthly_volume)
+
+
