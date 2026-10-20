@@ -115,3 +115,11 @@ plt.savefig("charts/chart5_xpev_zoom.png", dpi=300)
 plt.close()
 
 print("\nChart saved: charts/chart5_xpev_zoom.png")
+# Monthly summary using pandas resample
+monthly_summary = pd.DataFrame({
+    "Closing Price": close_prices,
+    "Daily Return (%)": daily_returns
+}).resample("ME").mean()
+
+print("\n=== XPEV Monthly Summary ===")
+print(monthly_summary.round(2))
