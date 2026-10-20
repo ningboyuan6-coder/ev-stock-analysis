@@ -95,3 +95,14 @@ XPEV recorded its largest daily decrease of **8.53%**, closing at **$11.15**. Tr
 ### Limitations
 
 Stock price changes may reflect company announcements, industry competition, investor expectations, and broader market conditions. Trading volume and price movements alone do not establish causation. Further research into contemporary business news is required to explain the specific events.
+### Business Event Analysis — August 24, 2026
+
+On August 24, 2026, XPeng released its second-quarter financial results. The company reported revenue of RMB 19.74 billion, an 8.0% year-over-year increase. However, its net loss widened to RMB 1.34 billion, compared with RMB 0.48 billion in the same quarter of 2025.
+
+XPeng also forecast third-quarter vehicle deliveries of 115,000 to 121,000 units. Despite revenue growth, the wider year-over-year loss and concerns about future growth may have contributed to negative investor sentiment.
+
+On the same day, XPEV shares fell 8.53% to $11.15, with trading volume of 26.44 million shares, approximately 3.69 times the average daily volume during our analysis period. This unusually high trading activity suggests a strong market reaction around the earnings announcement.
+
+Although the earnings release provides a plausible explanation for the decline, other market factors may also have influenced the stock price.
+
+**Source:** [XPeng Official Q2 2026 Financial Results, August 24, 2026](https://ir.xiaopeng.com/news-releases/news-release-details/xpeng-reports-second-quarter-2026-unaudited-financial-results)
