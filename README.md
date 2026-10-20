@@ -5,7 +5,7 @@ Group project analyzing the price behavior of three EV makers (BYDDY, TSLA, XPEV
 ## Group Members
 - Member 1: Jiayue Deng
 - Member 2: Boyuan Ning
-- Member 3: ______
+- Member 3: Ab Mikhiel
 
 ## Tickers and Date Range
 1. BYDDY — BYD Company Ltd (ADR) — Jiayue Deng
