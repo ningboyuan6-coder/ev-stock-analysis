@@ -117,3 +117,25 @@ Positive expectations surrounding the new SUV may have supported investor confid
 **Sources:**
 - [Reuters — XPeng GX SUV Launch, May 20, 2026](https://www.reuters.com/world/china/chinas-xpeng-launches-future-facing-suv-drive-upmarket-sales-2026-05-20/)
 - [CnEVPost — XPeng GX and May Order Expectations, May 26, 2026](https://cnevpost.com/2026/05/26/analysts-aggressive-pricing-gx-boosts-xpeng-may-orders-50000/)
+
+### XPEV Monthly Performance Analysis
+
+We used pandas `resample("ME")` to calculate the average monthly closing price and average daily return for XPEV from April 15 to October 15, 2026.
+
+| Month | Average Closing Price (USD) | Average Daily Return (%) |
+|---|---:|---:|
+| April 2026 | $16.95 | -0.68% |
+| May 2026 | $15.89 | +0.08% |
+| June 2026 | $14.49 | -0.98% |
+| July 2026 | $13.15 | -0.05% |
+| August 2026 | $11.80 | -0.59% |
+| September 2026 | $10.47 | -0.80% |
+| October 2026 | $9.56 | +0.09% |
+
+**Key Findings:**
+
+1. XPEV's average monthly closing price declined from $16.95 in April to $9.56 in October, indicating a sustained downward price trend.
+2. June had the lowest average daily return at -0.98%, followed by September at -0.80%.
+3. May and October recorded slightly positive average daily returns, despite the overall decline in stock prices.
+
+**Limitation:** April and October contain only partial-month trading data because our analysis covers April 15 through October 15, 2026. Monthly average daily returns should not be confused with total monthly investment returns.
