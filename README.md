@@ -4,7 +4,7 @@ Group project analyzing the price behavior of three EV makers (BYDDY, TSLA, XPEV
 
 ## Group Members
 - Member 1: Jiayue Deng
-- Member 2: ______
+- Member 2: Boyuan Ning
 - Member 3: ______
 
 ## Tickers and Date Range
