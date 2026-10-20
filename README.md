@@ -64,3 +64,34 @@ Charts are saved in `charts/`.
 
 ## Limitations
 The data show historical price and volume patterns consistent with the cited news, but attributing any single day's move to one event is inference, not proof. Other factors may have contributed; correlation does not imply causation. This describes historical patterns only — not predictions or financial advice.
+
+
+## XPEV Stock Analysis
+
+### Significant Price Movements
+
+Our analysis examines XPeng (NYSE: XPEV) from April 15 to October 15, 2026.
+
+**Largest Daily Increase — May 26, 2026**
+
+XPEV recorded its largest daily increase of **6.16%**, closing at **$16.55**. Trading volume reached **11,675,400 shares**, approximately **1.63 times** the average daily trading volume.
+
+**Largest Daily Decrease — August 24, 2026**
+
+XPEV recorded its largest daily decrease of **8.53%**, closing at **$11.15**. Trading volume reached **26,442,200 shares**, approximately **3.69 times** the average daily trading volume.
+
+### Key Findings
+
+1. XPEV's average daily return was approximately **-0.44%** during the analysis period.
+2. The standard deviation of daily returns was approximately **2.68%**, indicating noticeable day-to-day fluctuations.
+3. The largest daily decline was accompanied by trading volume substantially above the period average, suggesting unusually high trading activity.
+
+### Visualization
+
+![XPEV Significant Price Movement](charts/chart5_xpev_zoom.png)
+
+*Figure: XPEV closing prices around August 24, 2026. The red dashed line marks the date of the largest daily decline.*
+
+### Limitations
+
+Stock price changes may reflect company announcements, industry competition, investor expectations, and broader market conditions. Trading volume and price movements alone do not establish causation. Further research into contemporary business news is required to explain the specific events.
