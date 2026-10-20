@@ -106,3 +106,12 @@ On the same day, XPEV shares fell 8.53% to $11.15, with trading volume of 26.44 
 Although the earnings release provides a plausible explanation for the decline, other market factors may also have influenced the stock price.
 
 **Source:** [XPeng Official Q2 2026 Financial Results, August 24, 2026](https://ir.xiaopeng.com/news-releases/news-release-details/xpeng-reports-second-quarter-2026-unaudited-financial-results)
+XPeng (NYSE: XPEV) shares jumped about 5% in early June 2026 following the company's announcement of 32,158 vehicle deliveries for May 2026, which marked a 4% increase over April and signaled strong operational momentum.
+
+Key Catalysts Around Late May / Early June 2026
+
+• May Delivery Numbers: XPeng delivered 32,158 smart EVs in May 2026, sustaining growth despite intense competition in China's electric vehicle market.
+• Flagship GX SUV Launch: XPeng officially launched its large six-seat GX SUV on May 20, 2026, driving heavy customer interest and long wait times.
+• Analyst Upgrades & Post-Q1 Sentiment: Following XPeng's Q1 financial results released on May 28, 2026, major firms adjusted their outlooks—including Macquarie upgrading the stock to Outperform and Bank of America raising its price target to $25, supported by growing overseas sales and Volkswagen technical service revenues.
+• Hedge Fund Activity (Context): A May 11, 2026 SEC filing revealed that Yunqi Capital completely liquidated its stake of 212,600 shares during the first quarter, though strong monthly delivery figures and tech-driven momentum outweighed the exit in subsequent market trading.
+Would you like more details on XPeng's latest Q2 earnings results or information on current analyst price targets for XPEV?
